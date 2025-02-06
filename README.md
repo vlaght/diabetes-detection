@@ -21,3 +21,7 @@ Go to http://localhost:8888/ (in case you didn't change the default host-port)
 2) Then you can go through the training notebook
 
 cheers!
+
+## Dataset
+
+Used one from here https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
